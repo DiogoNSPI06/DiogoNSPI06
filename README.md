@@ -2,6 +2,8 @@
 
 * 😄 | Pronouns: He/him 
 * 🏳️‍🌈 | Bisexual
+
+----
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiogoNSPI06&count_private=true&bg_color=2C2F33)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoNSPI06&layout=compact&bg_color=2C2F33)](https://github.com/anuraghazra/github-readme-stats)
 <!--
