@@ -1,7 +1,13 @@
 ### Welcome to my Profile!
+- Here is a little bit about me
 
-* 😄 | Pronouns: He/him 
-* 🏳️‍🌈 | Bisexual
+* 🌐 | I'm a Web Developer: **NodeJS** | **React** | **Angular**
+* 😄 | My Pronouns are He/him 
+* 🏳️‍🌈 | My sexuality is Bisexual
+* 🇧🇷  | I'm currently living in São Paulo Brazil
+* 🧑 | I have 16 years old
+* 🎓 | Doeing my high school in [Colégio Mater Amabilis](https://colegioma.com)
+
 
 ----
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiogoNSPI06&count_private=true&bg_color=2C2F33)
