@@ -6,7 +6,7 @@
 * 🏳️‍🌈 | My sexuality is Bisexual
 * 🇧🇷  | I'm currently living in São Paulo Brazil
 * 🧑 | I have 16 years old
-* 🎓 | Doeing my high school in [Colégio Mater Amabilis](https://colegioma.com)
+* 🎓 | Doing my high school in [Colégio Mater Amabilis](https://colegioma.com)
 
 
 ----
