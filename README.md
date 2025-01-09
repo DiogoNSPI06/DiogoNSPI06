@@ -5,8 +5,8 @@
 * 😄 | My Pronouns are He/him 
 * 🏳️‍🌈 | My sexuality is Bisexual
 * 🇧🇷  | I'm currently living in São Paulo Brazil
-* 🧑 | I am 17 years old
-* 🎓 | Doing my high school in [Colégio Mater Amabilis](https://colegioma.com)
+* 🧑 | I am 18 years old
+* 🎓 | Done my high school in [Colégio Mater Amabilis](https://colegioma.com)
 
 
 ----
