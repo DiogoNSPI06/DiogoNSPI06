@@ -16,6 +16,9 @@
 
 <h2 align="left">✨ How to contact me:</h2>
 
+* 🦊 | Discord: [@diogo06](https://discord.com/users/732549418829611098)
+* 🐦 | Twitter: [@diogonspi](https://x.com/diogonspi)
+* 📩 | E-MAIL: diogonsc@nextfur.net
 ---
 <h2 align="left">💻 My Tech Stack</h2>
 <h3>Backend</h3>
