@@ -43,12 +43,14 @@
 </table>
 
 <h3>Other Languages</h3>
-<td><img src="https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC"></td>
-<td><img src="https://img.shields.io/badge/markdown-%2320232a.svg?style=for-the-badge&logo=markdown&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/csharp-%2320232a.svg?style=for-the-badge&logo=c#&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/C & C++-%2320232a.svg?style=for-the-badge&logo=c&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/python-%2320232a.svg?style=for-the-badge&logo=python&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge&logo=java&logoColor=white"></td>
+<table>
+    <td><img src="https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC"></td>
+    <td><img src="https://img.shields.io/badge/markdown-%2320232a.svg?style=for-the-badge&logo=markdown&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/csharp-%2320232a.svg?style=for-the-badge&logo=c#&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/C & C++-%2320232a.svg?style=for-the-badge&logo=c&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/python-%2320232a.svg?style=for-the-badge&logo=python&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge&logo=java&logoColor=white"></td>
+</table>
 
 ---
 
